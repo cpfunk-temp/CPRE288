@@ -1,0 +1,1 @@
+On OI interface -> you must figure out how to handle errors in the UART communication 
